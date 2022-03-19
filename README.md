@@ -18,7 +18,7 @@ main에서 변경
 
 [github](https://github.com)
 
-![github](https://github.com/image/logo.jpg)
+![github](https://github.com/fully82/KakaoTalk_20220119_181836820.jpg)
 
 ###신영복의 <당론>
 >소비를 통하여 정체성을 만들어 낼 수 없다.
